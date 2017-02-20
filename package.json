@@ -11,6 +11,8 @@
     "production": "meteor deploy production.meteor.com --settings settings-production.json"
   },
   "devDependencies": {
+    "babel-core": "6.x.x",
+    "babel-polyfill": "6.x.x",
     "babel-plugin-import": "^1.1.1",
     "chimp": "^0.41.2",
     "eslint": "^3.8.1",
